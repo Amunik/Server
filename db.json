@@ -1,0 +1,57 @@
+{
+	"Barcode": [
+	{    
+		"id": "loopwiel1" ,
+		
+    			"Lagertype" : "23968 CC/W33",
+    			"Assemblage" :"1/4/2019",
+			"Asdiameter": "100",
+			"Lagerboring": "101",
+			"Smeren" : {
+				"Datum" : ["1/4/2019", "1/2/2019"],
+				"Hoeveelheid" : ["30", "70"]},
+    			"Stock in" : "13/4/2019",
+			"Stock uit" : "13/5/2019",
+			"Montage" : "15/5/2019",
+			"Demontage" : "15/8/2019",
+			"Loopkraanid" :"LK 101 KZEL L4"
+			
+		
+	},
+	{    
+		"id": "loopwiel2" ,
+		
+    			"Lagertype" : "23666 CC/W33",
+    			"Assemblage" :"5/2/2018",
+			"Asdiameter": "200",
+			"Lagerboring": "201",
+			"Smeren" : {
+				"Datum" : ["1/4/2018", "1/2/2018"],
+				"Hoeveelheid": ["35", "60"]},
+    			"Stock in" : "13/4/2018",
+			"Stock uit" : "13/5/2018",
+			"Montage" : "15/5/2018",
+			"Demontage" : "15/8/2018",
+			"Loopkraanid" :"LK 101 KZEL L3"
+			
+	},
+	{    
+		"id": "loopwiel3" ,
+		
+    			"Lagertype" : "23965 CC/W33",
+    			"Assemblage" :"5/12/2019",
+			"Asdiameter": "300",
+			"Lagerboring": "301",
+			"Smeren" : {
+				"Datum" : ["12/4/2019", "11/2/2019"],
+				"Hoeveelheid": ["60", "75"]},
+    			"Stock in" : "30/2/2019",
+			"Stock uit" : "03/5/2019",
+			"Montage" : "05/5/2019",
+			"Demontage" : "10/8/2019",
+			"Loopkraanid" :"LK 101 KZEL L2"
+		
+	}]
+}
+
+
