@@ -1,7 +1,7 @@
 {
 	"Barcode": [
 	{    
-		"id": "1" ,
+		"id": 1 ,
 		
     			"Lagertype" : "23968 CC/W33",
     			"Assemblage" :"1/4/2019",
@@ -19,7 +19,7 @@
 		
 	},
 	{    
-		"id": "2" ,
+		"id": 2 ,
 		
     			"Lagertype" : "23666 CC/W33",
     			"Assemblage" :"5/2/2018",
@@ -36,7 +36,7 @@
 			
 	},
 	{    
-		"id": "3" ,
+		"id": 3 ,
 		
     			"Lagertype" : "23965 CC/W33",
     			"Assemblage" :"5/12/2019",
